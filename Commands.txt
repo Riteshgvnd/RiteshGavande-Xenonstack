@@ -1,0 +1,14 @@
+TOPBEAT COMMANDS
+>cd c:\topbeat
+>.\topbeat.yml  # to config topbeat
+>powershell.exe -executionpolicy unrestricted -file .\install-service-topbeat.ps1
+>.\topbeat
+>start-service topbeat
+---------------------------------------------------------------------------------------------------------------
+ELECTRICSEARCH
+>cd c:\electricsearch\bin
+>.\electricsearch.bat
+----------------------------------------------------------------------------------------------------------------
+KIBANA
+>cd c:\kibana\bin
+>.\kibana.bat
